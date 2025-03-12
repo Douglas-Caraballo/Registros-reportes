@@ -6,6 +6,9 @@
     <title>Soporte</title>
 </head>
 <body>
+    <header>
+        <?php include 'modulos/menu.php'; ?>
+    </header>
     <div>
         <?php
             $rutas = new RutasControntolador();
