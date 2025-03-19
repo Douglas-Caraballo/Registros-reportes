@@ -3,7 +3,7 @@
     class ModeloRutas{
 
         static public function RutasModelos($rutas){
-            if($rutas == 'reporte_pc'|| $rutas == 'impresora'){
+            if($rutas == 'reporte_pc'|| $rutas == 'impresora' || $rutas=="Mac"){
                 $pagina = 'vistas/modulos/'.$rutas.'.php';
             }elseif($rutas=='index'){
                 $pagina = 'vistas/modulos/inicio.php';
