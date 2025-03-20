@@ -10,7 +10,7 @@
     <header class="menuWrapper">
         <?php include 'modulos/menu.php'; ?>
     </header>
-    <div>
+    <div class="wrapperContent">
         <?php
             $rutas = new RutasControntolador();
             $rutas -> Rutas();

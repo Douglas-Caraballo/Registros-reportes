@@ -1,8 +1,8 @@
-<div>
+<div class="formWrapper">
     <h2>Impresoras</h2>
-    <form action="" method="post">
+    <form class="Forms" action="" method="post">
         <h3>Datos del Servircio</h3>
-        <div>
+        <div class="FormSection">
             <label for="">Departamento</label>
             <input type="text" name="" id="">
             <label for="">Ubicación</label>

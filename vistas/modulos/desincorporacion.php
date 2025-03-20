@@ -1,8 +1,8 @@
-<div>
+<div class="formWrapper">
     <h2>Desincorporación</h2>
-    <form action="" method="post">
+    <form class="Forms" action="" method="post">
         <h3>Datos del Servicio</h3>
-        <div>
+        <div class="FormSection">
             <label for="">Departamento</label>
             <input type="text" name="" id="">
             <label for="">Fecha de Desincorporación</label>
